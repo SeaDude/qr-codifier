@@ -3,7 +3,6 @@
 ### Simple tool to generate VCARD QR Codes w/images
 
 - **Note**: This uses a deprecated Google Charts API. It still works for now (7/2022). 
-- This is to help [Tom Man](https://stackoverflow.com/users/14551400/tom-man) with [this question on StackOverflow](https://stackoverflow.com/questions/71199422/does-native-iphone-camera-allow-vcard-encoded-as-qr-code-to-have-photos/72778218?noredirect=1#comment128579772_72778218)
 
 ### How to use 
 
