@@ -1,7 +1,5 @@
 # qr-codifier
 
-![](.\assets\images\README-2022-07-01-08-21-32.png)
-
 ### Simple tool to generate VCARD QR Codes w/images
 
 - **Note**: This uses a deprecated Google Charts API. It still works for now (7/2022). 
